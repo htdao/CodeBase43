@@ -1,0 +1,9 @@
+SP01	Son môi	Cái	Maybelline	150000	175000	92
+SP02	Kem nền	Hộp	Anessa	550000	599000	10
+SP03	Kem lười	Hộp	MKUP	550000	630000	34
+SP04	Kem lót	Tuýp	Innisfree	200000	260000	95
+SP05	Phấn phủ	Hộp	MAC	45000	500000	0
+SP06	Kem chống nắng	Tuýp	Senka	120000	160000	97
+SP07	Serum dưỡng ẩm	Lọ	Laneige	500000	660000	5
+SP08	Xịt Khoáng	Lọ	VICHY	188800	230000	23
+SP09	Toner	Lọ	The Ordinary	289000	320000	11

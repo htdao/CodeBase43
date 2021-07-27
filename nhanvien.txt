@@ -1,0 +1,9 @@
+NV01	Hà Thị Đào	Nữ	htdao00@gmail.com	0388282229	e10adc3949ba59abbe56e057f20f883e	1	0
+NV02	Nguyễn Văn Anh	Nam	nvanh@gmail.com	0345678888	e10adc3949ba59abbe56e057f20f883e	1	1
+NV04	Trần Thị Hà	Nữ	ttb00@gmail.com	0545555556	444444	1	1
+NV05	Dương Thị Nhung	Nữ	dtnhung@gmail.com	0388273119	14e1b600b1fd579f47433b88e8d85291	1	1
+NV06	Đỗ Việt Hưng	Nam	dvhung@gmail.com	0947772832	14e1b600b1fd579f47433b88e8d85291	0	0
+NV07	Đào Thị Hà	Nữ	dtha@gmail.com	0967565656	123456	1	1
+NV08	Đỗ Tuấn Hưng	Nam	dthung@gmail.com	0999988877	123456	1	1
+NV09	Hà Thị Đào	Nữ	htdao09@gmail.com	0388282220	14e1b600b1fd579f47433b88e8d85291	1	1
+NV11	Ha Thi Daooo	Nữ	htdao00@gmail.com	0123456789	224cf2b695a5e8ecaecfb9015161fa4b	1	1
